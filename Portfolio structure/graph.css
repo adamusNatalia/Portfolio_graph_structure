@@ -1,0 +1,42 @@
+﻿nav{
+    background-color:#46a4d6;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link {
+    color: #fff;
+    background-color: #5cc1f7;
+}
+
+.navbar-brand{
+    cursor:pointer;
+    font-weight:600;
+}
+
+svg{
+     display:block;
+     margin:auto;
+ }
+
+.node circle {
+            
+    stroke: steelblue;
+    stroke-width: 3px;
+}
+
+.node text {
+    font-size: 13px;
+}
+
+.node--internal text {
+    text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+.link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 2px;
+}
