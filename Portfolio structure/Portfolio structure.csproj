@@ -96,21 +96,11 @@
   <ItemGroup>
     <Content Include="graph_vertical.js" />
     <Content Include="graph.css" />
-    <Content Include="HtmlPage1.html" />
-    <Content Include="HtmlPage2.html" />
     <Content Include="index.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Portfolio1.json" />
-    <Content Include="tree-boxes.css" />
-    <Content Include="tree-boxes.js" />
-    <Content Include="treeData.json" />
-    <Content Include="data-example.json" />
-    <Content Include="Portfolio2.json" />
-    <Content Include="Portfolio3.json" />
-    <Content Include="Portfolio4.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -119,8 +109,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="graph.js" />
-    <Content Include="index2.html" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="Web.config" />
